@@ -29,7 +29,6 @@ lst = ['2_Std300',
  '2_90th precentile10']
 #Function 1
 def fn1(df):
-  #outliers
   dataframe = df[(df["acoustic_data"] >-2.0) & (df["acoustic_data"]<41.0)]
 
   def feat_transform(x):
