@@ -1,5 +1,7 @@
 # Earthquake-Prediction
 
+In this blog, we will do a case study about the LANL earthquake, which is a competition conducted on Kaggle.com. In this case study, we will predict the time of the next earthquake to happen.
+
 My blog:
 
 
