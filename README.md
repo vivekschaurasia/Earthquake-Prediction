@@ -17,4 +17,4 @@ Kaggle Link:
 https://www.kaggle.com/c/LANL-Earthquake-Prediction
 
 
-Follow on Linkedin: https://www.linkedin.com/in/vivek-santosh-chaurasia-567b15197/
+Follow me on Linkedin: https://www.linkedin.com/in/vivek-santosh-chaurasia-567b15197/
